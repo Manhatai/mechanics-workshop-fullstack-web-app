@@ -1,0 +1,17 @@
+﻿Project 'MechanicsWorkshopApi' has the following package references:
+
+   [net8.0]:
+
+   Top-level Package                                              Requested   Resolved
+   
+   > BCrypt.Net-Next                                              4.0.3       4.0.3 
+   > Microsoft.AspNetCore.Authentication.JwtBearer                8.0.6       8.0.6
+   > Microsoft.EntityFrameworkCore.Tools                          8.0.6       8.0.6
+   > Microsoft.Extensions.Configuration.EnvironmentVariables      8.0.0       8.0.0
+   > Microsoft.Extensions.Configuration.Json                      8.0.0       8.0.0
+   > Microsoft.Extensions.Logging                                 8.0.0       8.0.0
+   > Microsoft.Extensions.Logging.Console                         8.0.0       8.0.0
+   > Npgsql.EntityFrameworkCore.PostgreSQL                        8.0.4       8.0.4
+   > Serilog.AspNetCore                                           8.0.1       8.0.1
+   > Swashbuckle.AspNetCore                                       6.4.0       6.4.0
+   > System.Configuration.ConfigurationManager                    8.0.0       8.0.0

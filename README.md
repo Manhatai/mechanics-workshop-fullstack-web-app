@@ -17,9 +17,3 @@ Welcome to the Vue 3, ASP.NET Core 8, and PostgreSQL 16 project! This project is
 - **Other Dependencies**:
   - Axios (for making HTTP requests in Vue)
   - Vue Router (for client-side routing)
-
-# Local Setup
-
-To run the project locally, follow these steps:
-
-### 1. Clone the Repository
